@@ -1,0 +1,19 @@
+{
+  "name": "pro_jokes_bot",
+  "version": "1.0.0",
+  "description": "A Discord bot that delivers programming jokes to entertain your server's tech-savvy community.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Isaac Kwaku Sarfo",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.13.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
