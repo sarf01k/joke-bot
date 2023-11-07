@@ -26,13 +26,12 @@ If you want to self-host the bot, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/discord-programming-jokes-bot.git
+   git clone https://github.com/sarf01k/joke-bot
    ```
 
 2. **Install Dependencies:**
 
    ```bash
-   cd discord-programming-jokes-bot
    npm install
    ```
 
